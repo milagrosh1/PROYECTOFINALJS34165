@@ -1,0 +1,729 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&family=Montserrat:wght@300&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar{
+    background-color: #267365;
+    padding: 2em;
+}
+.navbar-brand{
+    color: rgb(253, 253, 253);
+}
+
+.navbar-brand:hover{
+    color: rgb(255, 255, 255);
+}
+
+.ContainerFooter{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: #267365;
+}
+.FatherFooter{
+    width: 100%;
+}
+.HijoTituloFooter{
+    width: 100%;
+
+}
+.HijoTituloFooter h3{
+    padding-top: 1em;
+    padding-bottom: 1em;
+    color: white;
+    text-align: center;
+}
+
+.HijoListaFooter{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+}
+.HijoListaFooter ul{
+    padding: 0;
+}
+.HijoListaFooter a{
+    color: rgb(255, 255, 255);
+    display: inline;
+    padding: 1em;
+    list-style: none;
+    text-decoration: none;
+
+}
+
+.HijoCopyrightFooter{
+    display: flex;
+    justify-content: center;
+}
+
+.HijoCopyrightFooter p{
+    border-top: 2px solid rgb(122, 126, 122);
+    padding-top: 1em;
+    color: rgb(255, 255, 255);
+}
+
+.PrimeraSeccion-main{
+    margin-bottom: 10em;
+}
+.Container-PrimeraSeccion{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.Container-PrimeraSeccion{
+    width: 100%;
+    display: flex;
+    
+}
+.Padre-PrimeraSeccion{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+
+}
+.info-texto{
+    width: 100%;
+}
+.info-texto h1{
+    padding: 1em;
+}
+
+.info-texto p{
+    width: 80%;
+    padding-left: 3em;
+}
+
+.Imagenes-Principales{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+.Segunda-Seccion{
+    width: 100%;
+}
+.Contenedor-Contenidos{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.Padre-Imagen-Contenidos{
+    display: flex;
+    justify-content: flex-start;
+    background-color: rgb(118, 21, 76);
+}
+
+.TerceraSeccion-main{
+    width: 100%;
+}
+
+.ContainerTerceraSeccion{
+    width: 100%;
+    display: flex;
+    justify-self: center;
+}
+
+.TerceraSeccion-main h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 1.5em;
+    background-color:rgb(122, 126, 122);
+    margin-top: 1em;
+}
+
+.Contenedorasd{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding: 1em;
+    margin-bottom: 5em;
+
+}
+
+
+.Lord-Icon-Div{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+.Benefit-1 h2{
+    width: 100%;
+    text-align: center;
+    color: rgb(118, 121, 119);
+    margin-bottom: 1em;
+}
+
+
+.Benefit-2 h2{
+    width: 100%;
+    text-align: center;
+    color: rgb(118, 121, 119);
+    margin-bottom: 1em;
+}
+
+.Benefit-3 h2{
+    width: 100%;
+    text-align: center;
+    color: rgb(118, 121, 119);
+    margin-bottom: 1em;
+}
+
+
+.CuartaSeccion-main{
+    width: 100%;
+}
+.Father-vision-mission{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.Hijo-vision-mission h2{
+    text-align: center;
+    color: white;
+    padding: 2em;
+}
+.Ajuste-img{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.Ajuste-img img{
+    width: 60%;
+}
+
+.Cards-information{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1em;
+    width: 100%;
+}
+
+.card-text{
+    width: 60%;
+}
+
+.Cards-information2{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+.Seccion-about{
+    width: 100%;
+}
+.Father-aboutus{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.Container-Banner-Photo{
+    width: 100%;
+}
+.Padre-Banner-Photo{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.Padre-Banner-Photo img{
+    margin-top: 1em;
+    width: 85%;
+}
+
+.Padre-Titulo-About{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 2em;
+    margin-left: 0;
+}
+.Padre-Titulo-About h2{
+    border-bottom: 3px solid rgb(122, 126, 122);
+    color: rgb(75, 88, 77);
+}
+
+.Container-Cards-About{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.Container-Cards-About{
+    padding: 1em;
+
+}
+.card-body h3{
+    text-align: center;
+}
+.card-body p{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+}
+.card{
+    margin: 1em;
+}
+lord-icon{
+    width: 100%;
+    text-align: center;
+}
+
+.Container-Services{
+    width: 100%;
+}
+
+.Padre-Services{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 4em;
+    margin-bottom: 4em;
+}
+
+.Padre-Services h2{
+    border-bottom: 3px solid rgb(122, 126, 122);
+    color: #000000;
+}
+.Our-Services{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.Service1{
+    margin: 1em;
+}
+.Service2{
+    margin: 1em;
+}
+.Service3{
+    margin: 1em;
+}
+
+.Service1 h3{
+    font-size: 27px;
+    text-align: center;
+}
+.Service2 h3{
+    font-size: 27px;
+    text-align: center;
+}
+.Service3 h3{
+    font-size: 27px;
+    text-align: center;
+}
+.Service-Text{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.Service-Text p{
+    text-align: center;
+    width: 70%;
+    font-size: 15px;
+}
+.Service-Icon{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1em;
+}
+.Service-Icon i{
+    background-color:rgb(122, 126, 122);
+    font-size: 2em;
+    color: white;
+    padding: 1em;
+    border-radius: 200px;
+}
+
+
+.Section-Message{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.div-ajustador{
+    width: 60%;
+}
+.Container-TextUs{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.Padre-Title-Message{
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+.Container-Form{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3em;
+
+}
+.Section-Message{
+    padding: 1em;
+}
+.emailtext{
+    padding: 10px;
+}
+
+.textarea{
+    padding: 10px;
+
+}
+.send{
+    padding: 15px;
+    margin: 1em;
+    color: white;
+    background-color:rgb(122, 126, 122);
+    border: 1px;
+    border-radius: 200px;
+}
+.Send-Message{
+    display: flex;
+    justify-content: center;
+}
+
+.container-Try{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-image: url(./assets/nosotros.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 200px 0 300px 0;
+
+}
+.padre-Try h3{
+    color: white;
+}
+
+.mainContact{
+}
+
+
+
+.SectionContact{
+    width: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url(./assets/presupuesto.jpg);
+
+
+}
+
+.ContainerContact{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.Information{
+    width: 50%;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.Contact{
+    margin-top: 6em;
+}
+.Contact a{
+    color: white;
+    text-decoration: none;
+}
+.phone{
+    display: flex;
+}
+.phone p{
+    margin-left: 1em;
+}
+
+.email{
+    display: flex;
+    align-items: center;
+}
+.email a{
+    margin-left: 1em;
+}
+.FormContact{
+    width: 50%;
+    justify-content: center;
+    display: flex;
+}
+
+.form{
+    width: 50%;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+label{
+    margin-bottom: 1em;
+    margin-top: 1em;
+    color: white;
+}
+.information1{
+    color: white;
+    background : inherit;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    border-bottom: 1px solid white;
+    padding: 10px;
+}
+
+.information2{
+    background : inherit;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    border-bottom: 1px solid white;
+    padding: 10px;
+    width:400px;
+    height:100px;
+    color: white;
+}
+.information1::placeholder{
+    color: white;
+}
+.information2::placeholder{
+    color: white;
+}
+.submitButton{
+    color: white;
+    background-color: rgb(0, 0, 0);
+    border: 1px;
+    border-radius: 5px;
+    padding: 7px;
+    width: 30%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.info{
+    display: flex;
+    justify-content: center;
+}
+
+.info h1{
+    border-bottom: 3px solid rgb(122, 126, 122);
+    color: rgb(75, 88, 77);
+}
+.welcome{
+    display: flex;
+    justify-content: center;
+
+}
+
+.welcome h1{
+    border-bottom: 3px solid #267365;
+    color: rgb(0, 0, 0);
+    margin-bottom: 1em;
+}
+
+
+#carouselExampleControlsNoTouching{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-bottom: 2em;
+}
+
+.carousel-inner{
+    width: 90%;
+}
+
+.allProducts{
+    width: 90%;
+
+}
+
+.allCards{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.fa-solid{
+    font-size: 25px;
+    color: #267365;
+    margin-left: 15px;
+
+}
+
+.imgProductos{
+    width: 40%;
+}
+
+.boton-agregar{
+    background-color:#267365;
+    border: 1px;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.boton-agregar:hover{
+    background-color: rgb(122, 126, 122);
+    transition: 0.3s;
+}
+.card-body p{
+    display: flex;
+    justify-content: flex-start;
+}
+.card-body h5{
+    font-size: 25px;
+
+}
+
+.laconchaputa{
+    display: flex;
+    width: 100%!important;
+    flex-wrap: wrap;
+}
+
+
+#carritoCerrar{
+    border: 1px;
+    background-color: rgb(178, 207, 159);
+}
+
+.productoEnCarrito{
+    border-bottom: 3px solid #267365;
+    padding: 1em;
+}
+
+.btn-primary{
+    background-color: #6c757d;
+    border: 1px;
+}
+.btn i{
+    font-size: 40px;
+}
+.btn:hover{
+    background-color:#000000;
+}
+
+.botonEliminar{
+    border: 1px;
+    background-color: rgb(255, 255, 255);
+
+}
+.botonEliminar i{
+    color: rgb(202, 102, 102);
+}
+#botonCarrito{
+    border: 1px;
+    background-color: rgb(250, 255, 246) ;
+    font-size: 20px;
+}
+
+.totalProducto{
+    padding-left: 1em;
+}
+
+.editarItems{
+    background-color: rgb(239, 252, 238);
+    padding: 1em;
+}
+
+.cards-container{ 
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.allCards {
+    display: flex;
+    width: 33%;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.allCards img{
+    height: 70%;
+}
+/*=========================MEDIA QUERIES PANTALLA ANCHA================================*/
+
+@media (max-width: 1280px) {
+    #intro,
+    #equipo {
+      width: 90% !important;
+      margin: auto;
+    }
+  
+    #local {
+      flex-wrap: wrap;
+      padding-top: 30px;
+    }
+    .wrapper-local {
+      width: 90%;
+      margin: auto;
+      padding-top: 50px;
+    }
+  }
+  /*=========================MEDIA QUERIES PANTALLA SM================================*/
+  
+  @media (max-width: 768px) {
+    #intro,
+    #equipo {
+      width: 90% !important;
+      margin: auto;
+    }
+
+    #img-equipo {
+      max-height: 20rem !important;
+      width: 90%;
+    }
+    .wrapper-local {
+      width: 90%;
+      margin: auto;
+      padding-top: 50px;
+    }
+    #local {
+      flex-wrap: wrap;
+    }
+    .mapa img {
+      width: 100%;
+      height: auto;
+    }
+    #bg-contactos {
+      top: -120px;
+    }
+  }
+  /*=========================MEDIA QUERIES PANTALLA EXTRA-SM================================*/
+  
+  @media (max-width: 576px) {
+    #servicios-fila-2 {
+      width: 100% !important;
+    }
+    #servicios-fila-1 {
+      width: 100% !important;
+    }
+  
+    .icono-wrap {
+      flex-wrap: wrap !important;
+      justify-content: center !important;
+      text-align: center;
+    }
+  }
+  
+  @media (max-width: 515px) {
+    .box {
+      padding: 0px 5px;
+    }
+  }
