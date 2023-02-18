@@ -25,27 +25,76 @@ let stockProductos = [
     },
     {
         id: 4,
+        nombre: "Servicio de filmacion"  ,
+        precio: 40000,
+        cantidad: 1,
+        desc: 'Incluye la entrega del video grabado en un cd o en formato digital.',
+        img: '../assets/products/fotofilm.webp'
+    },
+    {
+        id: 5,
+        nombre: "Servicio de filmacion + Fotografia",
+        precio: 80000,
+        cantidad: 1,
+        desc: '100 Fotos impresas sobre un papel brillante o mate (Tamaño de la foto 12.7x18cm).',
+        img: '../assets/products/filmfoto.jpg'
+    },
+    {
+        id: 6,
+        nombre: "Material Impreso del servicio",
+        precio: 35000,
+        cantidad: 1,
+        desc: 'Incluye la entrega del video grabado en un cd o en formato digital.',
+        img: '../assets/products/fotofotos.webp'
+    },
+    {
+        id: 7,
+        nombre: "Cuadro Square",
+        precio: 25000,
+        cantidad: 1,
+        desc: 'Tranformá tu foto preferida en un cuadro de primera calidad. 60x60).',
+        img: '../assets/products/726.jpg'
+    },
+    {
+        id: 8,
         nombre: "Foto Libro 21x21cm  ",
         precio: 12600,
         cantidad: 1,
         desc: 'Foto libro que contiene 101 paginas (una foto en cada pagina).',
-        img: '../assets/products/fotoalbum.png'
+        img: '../assets/products/3825.jpg'
     },
     {
-        id: 5,
-        nombre: "Fotos BigClassic",
+        id: 9,
+        nombre: "FotoLibro Tapa Blanda",
+        precio: 11400,
+        cantidad: 1,
+        desc: 'Tamaño: 15x15 cm 101 paginas (1 foto por pagina).).',
+        img: '../assets/products/3831.jpg'
+    },
+    {
+        id: 10,
+        nombre: "Pack de 100 PolaPrints  ",
+        precio: 9600,
+        cantidad: 1,
+        desc: 'Tamaño de las fotos: 9x10.5cm).',
+        img: '../assets/products/621.jpg'
+    },
+    {
+        id: 11,
+        nombre: "Pack de 100 BigClassic",
         precio: 14600,
         cantidad: 1,
-        desc: '100 Fotos impresas sobre un papel brillante o mate (Tamaño de la foto 12.7x18cm).',
-        img: '../assets/products/fotofotos.webp'
+        desc: 'Tamaño de la foto: 12.7x18cm papel brillante).',
+        img: '../assets/products/1425.jpg'
     },
     {
-        id: 6,
-        nombre: "Servicio de filmacion",
-        precio: 35000,
+        id: 12,
+        nombre: "Pack de 100 ClassicPrints  ",
+        precio: 9480,
         cantidad: 1,
-        desc: 'Incluye la entrega del video grabado en un cd o en formato digital.',
-        img: '../assets/products/fotofilm.webp'
-    }
+        desc: 'Tamaño de las fotos: 10x15.2 cm).',
+        img: '../assets/products/4259.jpg'
+    },
+
 
 ]

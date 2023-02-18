@@ -252,7 +252,7 @@ body{
 }
 .Padre-Titulo-About h2{
     border-bottom: 3px solid rgb(122, 126, 122);
-    color: rgb(75, 88, 77);
+    color: rgb(0, 0, 0);
 }
 
 .Container-Cards-About{
@@ -543,11 +543,11 @@ label{
 }
 
 .carousel-inner{
-    width: 90%;
+    width:80%;
 }
 
 .allProducts{
-    width: 90%;
+    width: 100%;
 
 }
 
@@ -559,7 +559,7 @@ label{
 }
 
 .fa-solid{
-    font-size: 25px;
+    font-size: 30%;
     color: #267365;
     margin-left: 15px;
 
@@ -584,6 +584,7 @@ label{
 }
 .card-body p{
     display: flex;
+   
     justify-content: flex-start;
 }
 .card-body h5{
@@ -642,21 +643,35 @@ label{
     padding: 1em;
 }
 
-.cards-container{ 
+.cards-container{ SESION 
     display: flex;
     flex-wrap: wrap;
 }
 
-.allCards {
+
+#vaciar-carrito{
+    background-color: brown;
+}
+
+.purchase{
     display: flex;
-    width: 33%;
     justify-content: center;
-    flex-wrap: wrap;
+    margin: 1em;
 }
 
-.allCards img{
-    height: 70%;
+.img-fluid{
+    max-width: 50%;
 }
+
+
+#activarFuncion{
+    opacity: 0;
+}
+
+#buttonFinalizar{
+    margin-bottom: 1em;
+}
+
 /*=========================MEDIA QUERIES PANTALLA ANCHA================================*/
 
 @media (max-width: 1280px) {
