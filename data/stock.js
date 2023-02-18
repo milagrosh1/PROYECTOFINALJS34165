@@ -25,7 +25,7 @@ let stockProductos = [
     },
     {
         id: 4,
-        nombre: "Servicio de filmacion"  ,
+        nombre: "SERVICIO DE FILMACION"  ,
         precio: 40000,
         cantidad: 1,
         desc: 'Incluye la entrega del video grabado en un cd o en formato digital.',
@@ -33,7 +33,7 @@ let stockProductos = [
     },
     {
         id: 5,
-        nombre: "Servicio de filmacion + Fotografia",
+        nombre: "SERVICIO DE FILMACION + FOTOGRAFIA",
         precio: 80000,
         cantidad: 1,
         desc: '100 Fotos impresas sobre un papel brillante o mate (Tamaño de la foto 12.7x18cm).',
@@ -41,7 +41,7 @@ let stockProductos = [
     },
     {
         id: 6,
-        nombre: "Material Impreso del servicio",
+        nombre: "MATERIAL IMPRESO DEL SERVICIO",
         precio: 35000,
         cantidad: 1,
         desc: 'Incluye la entrega del video grabado en un cd o en formato digital.',
@@ -49,7 +49,7 @@ let stockProductos = [
     },
     {
         id: 7,
-        nombre: "Cuadro Square",
+        nombre: "CUADRO SQUARE",
         precio: 25000,
         cantidad: 1,
         desc: 'Tranformá tu foto preferida en un cuadro de primera calidad. 60x60).',
@@ -57,7 +57,7 @@ let stockProductos = [
     },
     {
         id: 8,
-        nombre: "Foto Libro 21x21cm  ",
+        nombre: "FOTO LIBRO 21x21CM  ",
         precio: 12600,
         cantidad: 1,
         desc: 'Foto libro que contiene 101 paginas (una foto en cada pagina).',
@@ -65,7 +65,7 @@ let stockProductos = [
     },
     {
         id: 9,
-        nombre: "FotoLibro Tapa Blanda",
+        nombre: "FOTOLIBRO TAPA BLANDA",
         precio: 11400,
         cantidad: 1,
         desc: 'Tamaño: 15x15 cm 101 paginas (1 foto por pagina).).',
@@ -73,7 +73,7 @@ let stockProductos = [
     },
     {
         id: 10,
-        nombre: "Pack de 100 PolaPrints  ",
+        nombre: "PACK DE  100 POLAPRINTS  ",
         precio: 9600,
         cantidad: 1,
         desc: 'Tamaño de las fotos: 9x10.5cm).',
@@ -81,7 +81,7 @@ let stockProductos = [
     },
     {
         id: 11,
-        nombre: "Pack de 100 BigClassic",
+        nombre: "PACK DE 100 BIG CLASSIC",
         precio: 14600,
         cantidad: 1,
         desc: 'Tamaño de la foto: 12.7x18cm papel brillante).',
@@ -89,7 +89,7 @@ let stockProductos = [
     },
     {
         id: 12,
-        nombre: "Pack de 100 ClassicPrints  ",
+        nombre: "PACK DE 100 CLASSICPRINTS  ",
         precio: 9480,
         cantidad: 1,
         desc: 'Tamaño de las fotos: 10x15.2 cm).',
